@@ -1,0 +1,14 @@
+POST / HTTP/1.1
+Host: docker.hackthebox.eu:30950
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://docker.hackthebox.eu:30950/
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 5
+Cookie: _ga=GA1.2.1956982976.1573267517; _gid=GA1.2.696515653.1573372170; PHPSESSID=k8sov5kjbp2ifa8kmo99p2ivq7; __auc=3e866ffa16e54bac574a4dd4706
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+hash=

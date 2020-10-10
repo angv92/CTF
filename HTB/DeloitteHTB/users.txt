@@ -1,0 +1,7 @@
+root
+news
+mysql
+cyrus
+asterisk
+spamfilter
+fanis
