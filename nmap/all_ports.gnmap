@@ -1,0 +1,4 @@
+# Nmap 7.70 scan initiated Thu Oct  8 09:57:20 2020 as: nmap -p- -oA nmap/all_ports 10.10.10.191
+Host: 10.10.10.191 ()	Status: Up
+Host: 10.10.10.191 ()	Ports: 21/closed/tcp//ftp///, 80/open/tcp//http///	Ignored State: filtered (65533)
+# Nmap done at Thu Oct  8 09:59:07 2020 -- 1 IP address (1 host up) scanned in 107.71 seconds

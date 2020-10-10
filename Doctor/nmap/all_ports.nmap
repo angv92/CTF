@@ -1,0 +1,10 @@
+# Nmap 7.70 scan initiated Thu Oct  8 06:00:26 2020 as: nmap -p- -oA nmap/all_ports 10.10.10.209
+Nmap scan report for doctor.htb (10.10.10.209)
+Host is up (0.033s latency).
+Not shown: 65532 filtered ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+8089/tcp open  unknown
+
+# Nmap done at Thu Oct  8 06:10:59 2020 -- 1 IP address (1 host up) scanned in 633.69 seconds
